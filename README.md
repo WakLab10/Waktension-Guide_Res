@@ -1,2 +1,2 @@
-# Waktension-GuideLib
-Waktension GuideLib
+# Waktension-Guide_Res
+Waktension Guide_Res
